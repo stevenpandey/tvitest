@@ -5,4 +5,4 @@
 
 # Old-style integer duration; avoid for newer clients.
 #EXTINF:10,
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6834.ts
+http://iptv.tvmalaysia.cc:80/139664/139664/6834
