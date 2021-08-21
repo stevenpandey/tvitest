@@ -1,54 +1,45 @@
 #EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" url-tvg="https://unifiplaytv.samsam123.tk/epg" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
+#EXTINF:-1 group-title="" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://i.ibb.co/LpZ36sw/101.png",TV1
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 group-title="" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-id="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-title="",TV3
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/103.m3u8|Referer=https://www.dailymotion.com/embed/video/|Origin=https://www.dailymotion.com
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/qdK3K74/1580295767086-drama-sangat-new.jpg" group-title="",DramaSangat
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/DSngat.m3u8|Referer=https://www.dailymotion.com/embed/video/|Origin=https://www.dailymotion.com
+#EXTINF:-1 group-title="" ch-number="107" tvg-id="107" tvg-chno="" tvg-logo="https://i.ibb.co/9ZTLRZr/147.png",DidikTV KPM
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/107.m3u8|Referer=https://www.dailymotion.com/embed/video/|Origin=https://www.dailymotion.com
+#EXTINF:-1 group-title="" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://i.ibb.co/Zh3DyfK/148.png",8TV
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/108.m3u8|Referer=https://www.dailymotion.com/embed/video/|Origin=https://www.dailymotion.com
+#EXTINF:-1 group-title="" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://i.ibb.co/BL07mRX/149.png",TV9
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/109.m3u8|Referer=https://www.dailymotion.com/embed/video/|Origin=https://www.dailymotion.com
+#EXTINF:-1 group-title="" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://i.ibb.co/QjC4ZBG/RTMK04.png",OKEY
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 group-title="" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.ibb.co/44B5G6F/RTMK06.png",Sukan RTM
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/SukanR™.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 group-title='" tvg-id="112" #EXTVLCOPT:network-caching=1000 tvg-chno="" tvg-logo="https://i.ibb.co/0JcPpPf/123.png",Awesome
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Ts/123.ts
+#EXTINF:-1 group-title="" ch-number="113" tvg-id="106" tvg-chno="113" tvg-logo="https://i.ibb.co/HKQyPn2/RTMK03.png",TV6
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6R™.m3u8|Referer=https://rtmklik.rtm.gov.my
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=<%= vuid %>
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 group-title="Malaysian Variety" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227769/3221227769.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=<%= vuid %>
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 group-title="Malaysian Variety" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
-https://web.hypp.tv:443/PLTV/88888888/224/3221227815/3221227815.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=<%= vuid %>
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 group-title="Malaysian Variety" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
-https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=<%= vuid %>
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 group-title="Malaysian Variety" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",DidikTV KPM
-https://web.hypp.tv:443/PLTV/88888888/224/3221227515/3221227515.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=<%= vuid %>
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 group-title="Chinese Variety" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
-https://web.hypp.tv:443/PLTV/88888888/224/3221227480/3221227480.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=<%= vuid %>
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 group-title="Malaysian Variety" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png",TV9
-https://web.hypp.tv:443/PLTV/88888888/224/3221227483/3221227483.mpd
+#EXTINF:-1 group-title="Malaysian Variety" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV Alhijrah
+https://web.hypp.tv:443/PLTV/88888888/224/3221227507/3221227507.mpd
+#EXTINF:-1 group-title="" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://i.ibb.co/3FzRVPh/120.png",GO Shop
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
+#EXTINF:-1 group-title="" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://i.ibb.co/dpjH4W1/122.png",TVS
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
+#EXTINF:-1 group-title="" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://i.ibb.co/K7GhxFN/logobes.png",Berita RTM
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/BeritaR™.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=<%= vuid %>
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=<%= vuid %>
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 group-title="Malaysian Variety" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV Alhijrah
-https://web.hypp.tv:443/PLTV/88888888/224/3221227507/3221227507.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=<%= vuid %>
