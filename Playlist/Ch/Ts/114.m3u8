@@ -1,0 +1,8 @@
+#EXT-X-VERSION:3
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:1
+
+# Old-style integer duration; avoid for newer clients.
+#EXTINF:10,
+http://media.example.com/segment0.ts
