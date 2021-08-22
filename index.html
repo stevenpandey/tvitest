@@ -1,4 +1,3 @@
-Hello.
 <!DOCTYPE html>
 <html>
 <audio preload="auto" autoplay="autoplay">
@@ -24,31 +23,64 @@ body {
 
 </body>
 </html>
-<!DOCTYPE html>
-<html>
-<head>
-<script>
-function startTime() {
-    var today = new Date();
-    var h = today.getHours();
-    var m = today.getMinutes();
-    var s = today.getSeconds();
-    m = checkTime(m);
-    s = checkTime(s);
-    document.getElementById('txt').innerHTML =
-    h + ":" + m + ":" + s;
-    var t = setTimeout(startTime, 500);
-}
-function checkTime(i) {
-    if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
-    return i;
-}
-</script>
-</head>
+DOCTYPE html>
+    <html lang="en">
 
-<body onload="startTime()">
+    <head>
+        <meta charset="utf-8">
+        <title> UA </title>
+        <meta name="description" content="EVERYTHING FINE">
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 
-<div id="txt"></div>
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
 
-</body>
-</html>
+        <style>
+        .grey{
+                background-color: #ccc;
+                padding: 20px;
+
+        }
+        </style>
+
+    </head>
+
+    <body>
+
+        <header>
+            <div class="jumbotron">
+                <div class="container">
+                    <script>
+                   ............
+                  </script>
+                </div> 
+            </div> 
+        </header>
+
+            <div class="grey">
+                <div class="container">
+                    <div class="well">R&D</div>
+                </div>
+            </div>
+
+
+
+        <footer>
+            <div class="container">
+                <hr>
+
+                <p>
+                    <small><a href="http://hazratferozmemon.org/#/">Jump To TrueTasawwuf</a> TRUE TASAWWUF</small></p>
+                <!--<p> <small><a href="http://twitter.com/wiredwiki">Ask whatever </a> On Twitter</small></p>-->
+                <!--<p> <small><a href="http://youtube.com/wiredwiki">Subscribe me</a> On Youtube</small>-->
+
+                </p>
+            </div> <!-- end container -->
+        </footer>
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    </body> 
+    </html>
