@@ -41,3 +41,6 @@ http://mediaprima.rastream.com/mediaprima-hotfm.android
 https://mediaprima.rastream.com/mediaprima-koolfm
 #EXTINF:-1 group-title="Radio" ch-number="724" tvg-chno="723" tvg-logo="https://i.ibb.co/zmbp34c/logo-flyfm-500x500-300x300.jpg",Fly FM
 https://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:-1 ,test
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/mpd/T
