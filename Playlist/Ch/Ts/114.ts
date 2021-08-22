@@ -4,11 +4,3 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:10.0,
 http://iptv.tvmalaysia.cc:80/139664/139664/6834
-#EXTINF:10.0,
-http://iptv.tvmalaysia.cc:80/139664/139664/6834
-#EXTINF:10.0,
-http://iptv.tvmalaysia.cc:80/139664/139664/6834
-#EXTINF:10.0,
-http://iptv.tvmalaysia.cc:80/139664/139664/6834
-#EXTINF:10.0,
-http://iptv.tvmalaysia.cc:80/139664/139664/6834
