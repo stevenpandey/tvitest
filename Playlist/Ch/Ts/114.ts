@@ -5,10 +5,10 @@
 #EXTINF:10.0,
 http://iptv.tvmalaysia.cc:80/139664/139664/6834
 #EXTINF:10.0,
-fileSequence2.ts
+http://iptv.tvmalaysia.cc:80/139664/139664/6834
 #EXTINF:10.0,
-fileSequence3.ts
+http://iptv.tvmalaysia.cc:80/139664/139664/6834
 #EXTINF:10.0,
-fileSequence4.ts
+http://iptv.tvmalaysia.cc:80/139664/139664/6834
 #EXTINF:10.0,
-fileSequence5.ts
+http://iptv.tvmalaysia.cc:80/139664/139664/6834
