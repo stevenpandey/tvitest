@@ -17,70 +17,78 @@ body {
 </head>
 <body>
 
-<h2>Background Stretch</h2>
+<h2>V-T-E-R Umbrella</h2>
 
-<p>Set the background-size property to "100% 100%" and the background image will be stretched to cover the entire element, in this case the body element.</p>
+<p>Saya Payung Kamu Semua,Saya Ikhlas dari hati</p>
 
 </body>
 </html>
-DOCTYPE html>
-    <html lang="en">
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Digital Clock With Date</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body onload="initClock()">
 
-    <head>
-        <meta charset="utf-8">
-        <title> UA </title>
-        <meta name="description" content="EVERYTHING FINE">
-        <!-- Latest compiled and minified CSS -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <!--digital clock start-->
+    <div class="datetime">
+      <div class="date">
+        <span id="dayname">Day</span>,
+        <span id="month">Month</span>
+        <span id="daynum">00</span>,
+        <span id="year">Year</span>
+      </div>
+      <div class="time">
+        <span id="hour">00</span>:
+        <span id="minutes">00</span>:
+        <span id="seconds">00</span>
+        <span id="period">AM</span>
+      </div>
+    </div>
+    <!--digital clock end-->
 
-        <!-- Optional theme -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    <script type="text/javascript">
+    function updateClock(){
+      var now = new Date();
+      var dname = now.getDay(),
+          mo = now.getMonth(),
+          dnum = now.getDate(),
+          yr = now.getFullYear(),
+          hou = now.getHours(),
+          min = now.getMinutes(),
+          sec = now.getSeconds(),
+          pe = "AM";
 
-        <style>
-        .grey{
-                background-color: #ccc;
-                padding: 20px;
+          if(hou >= 12){
+            pe = "PM";
+          }
+          if(hou == 0){
+            hou = 12;
+          }
+          if(hou > 12){
+            hou = hou - 12;
+          }
 
-        }
-        </style>
+          Number.prototype.pad = function(digits){
+            for(var n = this.toString(); n.length < digits; n = 0 + n);
+            return n;
+          }
 
-    </head>
+          var months = ["January", "February", "March", "April", "May", "June", "July", "Augest", "September", "October", "November", "December"];
+          var week = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+          var ids = ["dayname", "month", "daynum", "year", "hour", "minutes", "seconds", "period"];
+          var values = [week[dname], months[mo], dnum.pad(2), yr, hou.pad(2), min.pad(2), sec.pad(2), pe];
+          for(var i = 0; i < ids.length; i++)
+          document.getElementById(ids[i]).firstChild.nodeValue = values[i];
+    }
 
-    <body>
+    function initClock(){
+      updateClock();
+      window.setInterval("updateClock()", 1);
+    }
+    </script>
 
-        <header>
-            <div class="jumbotron">
-                <div class="container">
-                    <script>
-                   ............
-                  </script>
-                </div> 
-            </div> 
-        </header>
-
-            <div class="grey">
-                <div class="container">
-                    <div class="well">R&D</div>
-                </div>
-            </div>
-
-
-
-        <footer>
-            <div class="container">
-                <hr>
-
-                <p>
-                    <small><a href="http://hazratferozmemon.org/#/">Jump To TrueTasawwuf</a> TRUE TASAWWUF</small></p>
-                <!--<p> <small><a href="http://twitter.com/wiredwiki">Ask whatever </a> On Twitter</small></p>-->
-                <!--<p> <small><a href="http://youtube.com/wiredwiki">Subscribe me</a> On Youtube</small>-->
-
-                </p>
-            </div> <!-- end container -->
-        </footer>
-
-        <!-- Latest compiled and minified JavaScript -->
-        <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-    </body> 
-    </html>
+  </body>
+</html>
