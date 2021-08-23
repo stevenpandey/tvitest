@@ -31,6 +31,8 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 #EXTINF:-1 group-title="" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://i.ibb.co/K7GhxFN/logobes.png",Berita RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/BeritaR™.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 group-title="" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://i.ibb.co/BL07mRX/149.png",Al-Jazeera
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Al-Jzra.m3u8|Referer=https://www.dailymotion.com/embed/video/|Origin=https://www.dailymotion.com
 #EXTINF:-1 group-title="Radio" tvg-id="701" tvg-chno="701" tvg-logo="https://i.ibb.co/CvR0p9y/869.png",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8|Referer=https://rtmklik.rtm.gov.my
 #EXTINF:-1 group-title="Radio" tvg-chno="705" tvg-logo="https://i.ibb.co/s2wL2sj/radio-RADIOKLASIKLOGO170-X96.jpg",Klasik Nasional FM
