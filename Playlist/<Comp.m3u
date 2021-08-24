@@ -1,6 +1,6 @@
 (is NOT For Sale)
 (UNTUK KEGUNAAN SENDIRI SAHAJA/JANGAN SESEKALI SALE)
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/thisistyx/epg/master/compressed/mytv.xml.gz" url-tvg="https://raw.githubusercontent.com/thisistyx/epg/master/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="" url-tvg="" refresh="1440" max-conn="1" refresh="24"
 #EXTINF:-1 group-title="" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://i.ibb.co/LpZ36sw/101.png",TV1
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
 #EXTINF:-1 group-title="" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://v-t-e-r.github.io/Umbrella/vendor/assets/logos/102.png",TV2
