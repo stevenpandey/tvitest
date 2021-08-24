@@ -1,7 +1,7 @@
 #EXTM3U
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="200kbs",NAME="Angle1",AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="200kbs",NAME="Angle2",AUTOSELECT=YES,DEFAULT=NO, URI="https://nhkwlive-burnin.webcdn.stream.ne.jp/vtt/id_G/webvtt.m3u8"
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="200kbs",NAME="Angle3",AUTOSELECT=YES,DEFAULT=NO, URI="https://nhkwlive-burnin.webcdn.stream.ne.jp/vtt/id_G/webvtt.m3u8"
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000,CODECS="mp4a.40.2,avc1.4d401e", VIDEO="200kbs",AUDIO="aac"
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+#EXT-X-VERSION:4
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="group00",NAME="lang",DEFAULT=YES,FORCED=NO,LANGUAGE="en",URI="https://nhkwlive-burnin.webcdn.stream.ne.jp/vtt/id_G/webvtt.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=353933,AVERAGE-BANDWIDTH=192512,RESOLUTION=320x180,CODECS="avc1.4d400c,mp4a.40.5",SUBTITLES="group00"
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_200k.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=694041,AVERAGE-BANDWIDTH=377504,RESOLUTION=384x216,CODECS="avc1.4d400d,mp4a.40.5",SUBTITLES="group00"
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index.m3u8
