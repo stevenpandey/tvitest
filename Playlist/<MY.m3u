@@ -39,12 +39,6 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Arirang.m3u8
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Nhk%3Cjp.m3u8
 #EXTINF:-1 tvg-id=" " group-title="International" tvg-logo="https://v-t-e-r.github.io/Umbrella/vendor/assets/logos/CGTN_Doc.png",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports" tvg-logo="https://v-t-e-r.github.io/Umbrella/vendor/assets/logos/OlympicChn.png",Olympic Channel 1
-https://ott-dai-oc.akamaized.net/OC1/master.m3u8|Referer=https://olympics.com/en/live/
-#EXTINF:-1 tvg-id=" " group-title="Sports" tvg-logo="https://v-t-e-r.github.io/Umbrella/vendor/assets/logos/OlympicChn.png",Olympic Channel 2
-https://ott-dai-oc.akamaized.net/OC2/master.m3u8|Referer=https://olympics.com/en/live/
-#EXTINF:-1 tvg-id=" " group-title="Sports" tvg-logo="https://v-t-e-r.github.io/Umbrella/vendor/assets/logos/OlympicChn.png",Olympic Channel 3
-https://ott-dai-oc.akamaized.net/OC3/master.m3u8|Referer=https://olympics.com/en/live/
 #EXTINF:-1 group-title="Radio" tvg-id="701" tvg-chno="701" tvg-logo="https://i.ibb.co/CvR0p9y/869.png",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8|Referer=https://rtmklik.rtm.gov.my
 #EXTINF:-1 group-title="Radio" tvg-chno="705" tvg-logo="https://i.ibb.co/s2wL2sj/radio-RADIOKLASIKLOGO170-X96.jpg",Klasik Nasional FM
