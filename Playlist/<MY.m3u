@@ -31,14 +31,6 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 #EXTINF:-1 group-title="News" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://i.ibb.co/K7GhxFN/logobes.png",Berita RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/BeritaR™.m3u8|Referer=https://rtmklik.rtm.gov.my
-#EXTINF:-1 group-title="News" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://v-t-e-r.github.io/Umbrella/vendor/assets/logos/aljzra.png",Al Jazeera HD
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Al-Jzra.m3u8|Referer=https://www.dailymotion.com/embed/video/k6SGELUGa7Sbt3rI4QO
-#EXTINF:-1 tvg-group="News" tvg-logo="https://v-t-e-r.github.io/Umbrella/vendor/assets/logos/arirang.png",Arirang
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Arirang.m3u8
-#EXTINF:-1 tvg-group="News" tvg-logo="https://v-t-e-r.github.io/Umbrella/vendor/assets/logos/nhkworldjp.png",NHK-World Japan
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Nhk%3Cjp.m3u8
-#EXTINF:-1 tvg-id=" " group-title="International" tvg-logo="https://v-t-e-r.github.io/Umbrella/vendor/assets/logos/CGTN_Doc.png",CGTN Documentary
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 group-title="Radio" tvg-id="701" tvg-chno="701" tvg-logo="https://i.ibb.co/CvR0p9y/869.png",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8|Referer=https://rtmklik.rtm.gov.my
 #EXTINF:-1 group-title="Radio" tvg-chno="705" tvg-logo="https://i.ibb.co/s2wL2sj/radio-RADIOKLASIKLOGO170-X96.jpg",Klasik Nasional FM
@@ -49,6 +41,3 @@ http://mediaprima.rastream.com/mediaprima-hotfm.android
 https://mediaprima.rastream.com/mediaprima-koolfm
 #EXTINF:-1 group-title="Radio" ch-number="724" tvg-chno="723" tvg-logo="https://i.ibb.co/zmbp34c/logo-flyfm-500x500-300x300.jpg",Fly FM
 https://mediaprima.rastream.com/mediaprima-flyfm
-
-#EXTINF:-1 tvg-id="103" tvg-logo="https://i.ibb.co/KNxQcpg/202007010436159112u3.png" group-title="",TV3 test
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Test103.m3u8
