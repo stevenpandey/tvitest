@@ -44,5 +44,11 @@ https://mediaprima.rastream.com/mediaprima-koolfm
 #EXTINF:-1 group-title="Radio" ch-number="724" tvg-chno="723" tvg-logo="https://i.ibb.co/zmbp34c/logo-flyfm-500x500-300x300.jpg",Fly FM
 https://mediaprima.rastream.com/mediaprima-flyfm
 
-#EXTINF:-1 tvg-id="103" tvg-logo="https://i.ibb.co/KNxQcpg/202007010436159112u3.png" group-title="",TV3 test
+#EXTINF:-1 tvg-id="103" tvg-logo="" group-title="",TV3 test
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Test103.m3u8
+
+#EXTINF:-1 tvg-id="103" tvg-logo="" group-title="",test2
+https://rtm6hd.secureswiftcontent.com/Origin2/ngrp:RTM2/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="103" tvg-logo="" group-title="",test3
+https://rtm3hd.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://rtmklik.rtm.gov.my
