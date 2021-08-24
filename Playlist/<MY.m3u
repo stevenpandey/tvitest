@@ -28,9 +28,11 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
 #EXTINF:-1 group-title="" ch-number="111" tvg-id="111" tvg-chno="111"
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my tvg-logo="https://i.ibb.co/44B5G6F/RTMK06.png",Sukan RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/SukanR™.m3u8
-#EXTINF:-1 group-title="" tvg-id="112" #EXTVLCOPT:network-caching=1000 tvg-chno="" tvg-logo="https://i.ibb.co/0JcPpPf/123.png",Awesome
+#EXTINF:-1 group-title="" tvg-id="112"
+#EXTVLCOPT:network-caching=1000 tvg-chno="" tvg-logo="https://i.ibb.co/0JcPpPf/123.png",Awesome
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Ts/123.ts
-#EXTINF:-1 group-title="" ch-number="113" tvg-id="106" tvg-chno="113" #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my tvg-logo="https://i.ibb.co/HKQyPn2/RTMK03.png",TV6
+#EXTINF:-1 group-title="" ch-number="113" tvg-id="106" tvg-chno="113"
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my tvg-logo="https://i.ibb.co/HKQyPn2/RTMK03.png",TV6
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6R™.m3u8
 #EXTINF:-1 group-title="" tvg-id="114" tvg-chno="" tvg-logo="https://i.ibb.co/4ZV6zkd/114.png",AlHijrah
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Ts/114.ts
