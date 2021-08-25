@@ -41,6 +41,14 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Nhk%3Cjp.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-logo="https://v-t-e-r.github.io/Umbrella/vendor/assets/logos/NASATV.png" group-title="Documentary",Nasa TV
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Nasa.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjE4YTEzMjUtMzBlZi0zNWVhLTg2NzktN2MzY2M0ZjU0YzQ0
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://v-t-e-r.github.io/Umbrella/vendor/assets/logos/beinsport1.png" group-title="Sports",beIN Sport 1
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjE4YTEzMjUtMzBlZi0zNWVhLTg2NzktN2MzY2M0ZjU0YzQ0
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://v-t-e-r.github.io/Umbrella/vendor/assets/logos/beinsport2.png" group-title="Sports",beIN Sport 2
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 group-title="Radio" tvg-id="701" tvg-chno="701" tvg-logo="https://i.ibb.co/CvR0p9y/869.png",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8|Referer=https://rtmklik.rtm.gov.my
 #EXTINF:-1 group-title="Radio" tvg-chno="705" tvg-logo="https://i.ibb.co/s2wL2sj/radio-RADIOKLASIKLOGO170-X96.jpg",Klasik Nasional FM
