@@ -43,11 +43,11 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Nasa.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=
-#EXTINF:-1 group-title="SPORTS" tvg-id="800" tvg-chno="800" tvg-logo="https://i.ibb.co/McJztKL/800.png",eGG Network
+#EXTINF:-1 group-title="SPORTS" tvg-id="800" tvg-chno="800" tvg-logo="https://v-t-e-r.github.io/Umbrella/vendor/assets/logos/800.png",eGGNetwork
 https://linear01-playback.sooka.my/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=
-#EXTINF:-1 group-title="Sports" tvg-id="801" tvg-chno="801" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801.png",Arena
+#EXTINF:-1 group-title="Sports" tvg-id="801" tvg-chno="801" tvg-logo="https://v-t-e-r.github.io/Umbrella/vendor/assets/logos/Arena.png",Arena
 https://linear01-playback.sooka.my/CH3/masterCH3.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjE4YTEzMjUtMzBlZi0zNWVhLTg2NzktN2MzY2M0ZjU0YzQ0
