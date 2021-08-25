@@ -49,9 +49,3 @@ https://akamai.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd|Referer=ht
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjE4YTEzMjUtMzBlZi0zNWVhLTg2NzktN2MzY2M0ZjU0YzQ0
 #EXTINF:-1 tvg-id="AlQuranAlKareem.MACAN" tvg-logo="https://i.ibb.co/5WgZ0sY/Al-Quran-Al-Kareem.jpg" group-title="",AL-Quran AL-Kareem
 https://akamai.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd|Referer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjE4YTEzMjUtMzBlZi0zNWVhLTg2NzktN2MzY2M0ZjU0YzQ0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="Zee.MACAN" tvg-logo="https://i.ibb.co/m8Lc404/zeebioskop.png" group-title="",Zee Bioskop
-https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd|Referer=https://www.visionplus.id/
