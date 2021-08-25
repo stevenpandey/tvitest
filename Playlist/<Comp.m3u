@@ -44,7 +44,7 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Nasa.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjE4YTEzMjUtMzBlZi0zNWVhLTg2NzktN2MzY2M0ZjU0YzQ0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://v-t-e-r.github.io/Umbrella/vendor/assets/logos/beinsport1.png" group-title="Sports",beIN Sport 1
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjE4YTEzMjUtMzBlZi0zNWVhLTg2NzktN2MzY2M0ZjU0YzQ0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://v-t-e-r.github.io/Umbrella/vendor/assets/logos/beinsport2.png" group-title="Sports",beIN Sport 2
