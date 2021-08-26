@@ -59,6 +59,8 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8|Referer=https://rtmklik.rtm.gov.my
 #EXTINF:-1 group-title="Radio" tvg-chno="705" tvg-logo="https://i.ibb.co/s2wL2sj/radio-RADIOKLASIKLOGO170-X96.jpg",Klasik Nasional FM
 https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 group-title="Radio" tvg-chno="" tvg-logo="https://v-t-e-r.github.io/Umbrella/vendor/assets/logos/Zyan_.png",zayan
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/876Zyn.m3u8
 #EXTINF:-1 group-title="Radio" tvg-chno="721" tvg-logo="https://i.ibb.co/3CT7whM/logo-hotfm-master.png",Hot FM
 http://mediaprima.rastream.com/mediaprima-hotfm.android
 #EXTINF:-1 group-title="Radio" tvg-chno="722" tvg-logo="https://i.ibb.co/DfnP8Xk/logo-buletinfm-master.png",Buletin FM
