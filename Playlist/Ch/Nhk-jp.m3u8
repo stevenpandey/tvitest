@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="lang",DEFAULT=YES,FORCED=NO,LANGUAGE="ind",URI="https://nhkwlive-burnin.webcdn.stream.ne.jp/vtt/id_G/webvtt.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=325000,RESOLUTION=320x180,CODECS="avc1.4d400c,mp4a.40.5",SUBTITLES="subs"
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_200k.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=954000,RESOLUTION=640x360,CODECS="avc1.4d400c,mp4a.40.5",SUBTITLES="subs"
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_600k.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1337000,RESOLUTION=848x480,CODECS="avc1.4d400d,mp4a.40.5",SUBTITLES="subs"
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2609000,RESOLUTION=1280x720,CODECS="avc1.4d400d,mp4a.40.5",SUBTITLES="subs"
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_2M.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4773000,RESOLUTION=1920x1080,CODECS="avc1.4d400d,mp4a.40.5",SUBTITLES="subs"
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_4M.m3u8
