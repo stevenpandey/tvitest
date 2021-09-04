@@ -1,7 +1,5 @@
 Url:https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8
 
-Url Referer:|Referer=https://rtmklik.rtm.gov.my
-
 102.m3u8
 
 103.m3u8
