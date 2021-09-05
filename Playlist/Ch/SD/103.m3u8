@@ -1,1 +1,8 @@
-Test
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1164000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=848x480
+https://dailymotionlive.akamaized.net/sec(_9ERdFwnAbs1GZsc1AwhHWYyEZlXyzrk_uNklHAYq0I)/dm/3/x6qp375/d/live-2.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=944000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=512x288
+https://dailymotionlive.akamaized.net/sec(_9ERdFwnAbs1GZsc1AwhHWYyEZlXyzrk_uNklHAYq0I)/dm/3/x6qp375/d/live-1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=557900,CODECS="avc1.66.21,mp4a.40.2",RESOLUTION=320x184
+https://dailymotionlive.akamaized.net/sec(_9ERdFwnAbs1GZsc1AwhHWYyEZlXyzrk_uNklHAYq0I)/dm/3/x6qp375/d/live-0.m3u8
