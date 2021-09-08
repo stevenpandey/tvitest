@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3#EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=900000,RESOLUTION=512x288
+#EXT-X-STREAM-INF:BANDWIDTH=920000,RESOLUTION=512x288
 https://dailymotionlive.akamaized.net/sec(_9ERdFwnAbs1GZsc1AwhHbxGC1twivzp1mr7uRDdmWk)/dm/3/x6qqja6/s/live-1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=568000,RESOLUTION=320x184
+#EXT-X-STREAM-INF:BANDWIDTH=550000,RESOLUTION=320x184
 https://dailymotionlive.akamaized.net/sec(_9ERdFwnAbs1GZsc1AwhHbxGC1twivzp1mr7uRDdmWk)/dm/3/x6qqja6/s/live-0.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1577000,RESOLUTION=848x480
+#EXT-X-STREAM-INF:BANDWIDTH=1550000,RESOLUTION=848x480
 https://dailymotionlive.akamaized.net/sec(_9ERdFwnAbs1GZsc1AwhHbxGC1twivzp1mr7uRDdmWk)/dm/3/x6qqja6/s/live-2.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2556000,RESOLUTION=1280x720
 https://dailymotionlive.akamaized.net/sec(_9ERdFwnAbs1GZsc1AwhHbxGC1twivzp1mr7uRDdmWk)/dm/3/x6qqja6/s/live-3.m3u8
