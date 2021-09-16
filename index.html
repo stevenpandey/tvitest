@@ -2,22 +2,22 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta content="IE=edge" http-equiv="X-UA-Compatible">
-  <meta content="width=device-width,initial-scale=1" name="viewport">
-  <meta content="description" name="description">
+  <meta charset="UTF-8" />
+  <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+  <meta content="width=device-width,initial-scale=1" name="viewport" />
+  <meta content="description" name="description" />
   <meta name="google" content="notranslate" />
-  <meta content="Mashup templates have been developped by Orson.io team" name="author">
+  <meta content="Mashup templates have been developped by Orson.io team" name="author" />
 
   <!-- Disable tap highlight on IE -->
-  <meta name="msapplication-tap-highlight" content="no">
+  <meta name="msapplication-tap-highlight" content="no" />
   
-  <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-icon-180x180.png">
-  <link href="./assets/favicon.ico" rel="icon">
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-icon-180x180.png" />
+  <link href="./assets/favicon.ico" rel="icon" />
 
   <title>V-T-E-R Umbrella</title>  
 
-<link href="./main.3f6952e4.css" rel="stylesheet"></head>
+<link href="./main.3f6952e4.css" rel="stylesheet" /></head>
 
 <body class="minimal">
 <div id="site-border-left"></div>
@@ -28,28 +28,18 @@
 <header>
   <nav class="navbar  navbar-fixed-top navbar-inverse">
     <div class="container">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-
-      
-
-
-      </div> 
+        </div> 
     </div>
   </nav>
 </header>
 <!-- Add your site or app content here -->
-  <div class="hero-full-container background-image-container white-text-container" style="background-image: url('https://v-t-e-r.github.io/Umbrella/vendor/assets/images/space.jpg')">
+  <div class="hero-full-container background-image-container white-text-container" style="background-image: url('https://v-t-e-r.github.io/Umbrella/vendor/assets/images/space.jpg');">
     <div class="container">
       <div class="row">
         <div class="col-xs-12">
           <div class="hero-full-wrapper">
             <div class="text-content">
-              <h1>Hello Semua,<br>
+              <h1>Hello Semua,<br />
                 <span id="typed-strings">
                   <span>Ntah..</span>
                   <span>laa...</span>
@@ -72,9 +62,27 @@
 </script>
 
 
-<script type="text/javascript" src="./main.70a66962.js"></script></body>
+<script type="text/javascript" src="./main.70a66962.js"></script>
 
-</html>
+
 <audio preload="auto" autoplay="autoplay">
-    <source src="https://github.com/V-T-E-R/Umbrella/blob/main/vendor/assets/music/ThemeSong-Alone.mp3?raw=true" type="audio/mpeg"/>
+    <source src="/vendor/assets/music/ThemeSong-Unity.mp3" type="audio/mpeg"/>
 </audio>
+
+<script>
+document.addEventListener("keydown", function(e){
+  // USE THIS TO DISABLE CONTROL AND ALL FUNCTION KEYS
+  // if (e.ctrlKey || (e.keyCode>=112 && e.keyCode<=123)) {
+  // THIS WILL ONLY DISABLE CONTROL AND F12
+  if (e.ctrlKey || e.keyCode==123) {
+    e.stopPropagation();
+    e.preventDefault();
+  }
+});
+</script>
+
+<p>
+  
+</p>
+</body>
+</html>
