@@ -21,8 +21,6 @@ DSngat.m3u8
 
 GShopMY.m3u8
 
-HelloGShp.m3u8
-
 Nasa.m3u8
 
 Nhk-jp.m3u8
