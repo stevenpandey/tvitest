@@ -1,12 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2064000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1920x1080
-https://rtmlive02.secureswiftcontent.com/rtmchannel/02-1080.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1064000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-https://rtmlive02.secureswiftcontent.com/rtmchannel/02-720.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2496000_slENG.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=764000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=854x480
-https://rtmlive02.secureswiftcontent.com/rtmchannel/02-480.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=564000,CODECS="avc1.66.21,mp4a.40.2",RESOLUTION=640x360
-https://rtmlive02.secureswiftcontent.com/rtmchannel/02-360.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b1296000_slENG.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=314000,CODECS="avc1.77.40,mp4a.40.2",RESOLUTION=426x240
-https://rtmlive02.secureswiftcontent.com/rtmchannel/02-240.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b654000_slENG.m3u8
