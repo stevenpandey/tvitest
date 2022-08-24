@@ -6,5 +6,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2496000_slENG.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1296000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=854x480
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b1296000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=190400,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=640x360
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b190400_slENG.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=654000,CODECS="avc1.77.40,mp4a.40.2",RESOLUTION=426x240
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b654000_slENG.m3u8
